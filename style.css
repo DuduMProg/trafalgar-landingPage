@@ -1,11 +1,11 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    
   }
   
   body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
     background-color: #fff;
     color: hsl(259, 42%, 14%);
   }
@@ -13,5 +13,15 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 1% 10%;
+    background-color: #fff;
+  }
+  .logo {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #1f1534;
   }
   
+  .logo span {
+    margin-left: 8px;
+  }
