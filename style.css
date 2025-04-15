@@ -17,6 +17,17 @@ header {
   padding: 30px 10%;
   background-color: white;
 }
+.T-Logo{
+  align-items: center;
+  display: flex;
+}
+.logo-text{
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 20px;
+  position: relative;
+  color: #1f1534;
+}
 
 .logo {
   font-weight: bold;
